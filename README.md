@@ -12,8 +12,9 @@ First, clone this repository to your local machine:
 # Step 2: Create Folders and Download Weights
 1. Create a weights directory in the main project folder.
 2. Download the model weights from this link:
-     
-3. 
+     - https://drive.google.com/file/d/160I2AMxnQ_ZT_MOO4dBA6jPH6BwKXFeV/view?usp=sharing
+     - and this file https://drive.google.com/file/d/1WMfdrdaiIPmRKIAx0i9q_NCIf7Xed2mC/view?usp=sharing
+3. download these files and put them in a folder named "weights"
 
 # Step 3: Set Up Python Environment
 This project requires Python 3.9. It is highly recommended to use a virtual environment 
