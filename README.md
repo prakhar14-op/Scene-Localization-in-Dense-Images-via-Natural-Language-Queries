@@ -37,8 +37,20 @@ Note: If you encounter build errors on Windows, you may need to install the Micr
 4. The results (an annotated image and a cropped image) will be saved in a new results folder.
 
 example outputs 
-- ![example_1](image_url)
-- ![example_2](image_url)
-- ![example_3](image_url)
-- ![example_4](image_url)
+## Dining Scene
+![Dining Image](dinning.jpeg)
+![Dining Result](dinning_result.png)
+
+## Market Scene
+![Market Image](market.jpg)
+![Market Result](market_result.jpg)
+
+## Street Scene
+![Street Image](street.webp)
+![Street Result](street_result.png)
+
+## Street Vendor Scene
+![Street Vendor Image](street_vendor_scene.jpg)
+![Street Vendor Result](street_vendor_result.png)
+
 
