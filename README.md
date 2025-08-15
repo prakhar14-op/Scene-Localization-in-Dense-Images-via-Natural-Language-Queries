@@ -34,3 +34,10 @@ Note: If you encounter build errors on Windows, you may need to install the Micr
       * python aims.py
 3. The script will prompt you to enter the path to an image and your text query.
 4. The results (an annotated image and a cropped image) will be saved in a new results folder.
+
+example outputs 
+- ![example_1](image_url)
+- ![example_2](image_url)
+- ![example_3](image_url)
+- ![example_4](image_url)
+
